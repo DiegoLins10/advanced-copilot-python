@@ -1,0 +1,6 @@
+## comandos copilot
+
+crtl + i após selecionar um codigo ou metodo 
+voce pode pedir para ele /fix arrumar seu codigo ou /tests criar um teste unitario
+
+exemplo: /tests help me to create a new test for this route that uses Spain as the country.
